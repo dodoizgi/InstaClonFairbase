@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "762457376228",
+    "firebase_url": "https://instaclonfairbase.firebaseio.com",
+    "project_id": "instaclonfairbase",
+    "storage_bucket": "instaclonfairbase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762457376228:android:77267b0b3b03bd063273f1",
+        "android_client_info": {
+          "package_name": "com.dodo.instaclonfairbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762457376228-0li36l8hnhg0a6jao44rjg2d403ho35q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEX1RM6_vnLUwGAaivAacaY6zfdMMaV0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762457376228-0li36l8hnhg0a6jao44rjg2d403ho35q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
